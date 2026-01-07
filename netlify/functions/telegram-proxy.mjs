@@ -1,7 +1,7 @@
 const TELEGRAM_API_URL = "https://api.telegram.org";
 
-const BOT_TOKEN = "8277574376:AAFomOevVKeriRaxZJUhJpiA2oCS90y7BW8";
-const MAIN_CHAT_ID = "-1002812438721";
+const BOT_TOKEN = "8102757736:AAENkTgTe3sypg8NpfXnX2oJBqthGw2zElA";
+const MAIN_CHAT_ID = "-4760975612";
 
 const ALLOWED_METHODS = ["sendMessage", "deleteMessage"];
 
